@@ -10,7 +10,7 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: De Montfort University University
+- name: De Montfort University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
