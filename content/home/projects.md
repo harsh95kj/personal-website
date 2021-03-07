@@ -27,14 +27,20 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Sentiment Analysis - Stock Market Hybrid Model
+    tag: Predictive Analysis
+  - name: Spatial Panel Data Analysis
+    tag: Spatial Panel Data Analysis
+  - name: CVD Risk Factors Analysis
+    tag: CVD Risk Factors Analysis
+  - name: Data Warehouse and BI Dashboard
+    tag: Data Warehouse and BI Dashboard
+  - name: Autonomous Car Robot
+    tag: Autonomous Car Robot
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '6'
 
   # Toggle between the various page layout types.
   #   1 = List
