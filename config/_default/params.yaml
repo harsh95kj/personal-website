@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: myTheme
+theme: "ocean"
 day_night: false
 font: ''
 font_size: S
