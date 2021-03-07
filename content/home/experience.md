@@ -29,7 +29,7 @@ experience:
     date_start: '2019-11-11'
     date_end: '2020-05-05'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Conducted inquisitive analysis on the factors influencing student’s attendance by testing the hypothesis.
         * Co-ordinated with 2 researchers and leveraged the techniques of statistical modelling using SAS, Excel and Power BI.
@@ -41,7 +41,7 @@ experience:
     date_start: '2017-08-07'
     date_end: '2019-08-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Engineered 2 reporting tools contributing to KPI reports saving 50% time and efforts of the management using MySQL.
         * Headed a team of 3 to automate 73% test cases and reduce execution time by 45% using Selenium.
@@ -57,7 +57,7 @@ experience:
     date_start: '2015-12-01'
     date_end: '2016-01-15'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Fabricated client dashboards to display key performance metrics using Google Charts API, JSON, SQL, POST requests using PHP.
         * Leveraged use of AJAX technology to send asynchronous requests to improve load time and performance of the webpage.
