@@ -21,12 +21,12 @@ feature:
   icon_pack: fab
   name: R
 - description: ""
-  icon: python-project
-  icon_pack: fas
+  icon: python
+  icon_pack: fab
   name: Python
 - description: ""
-  icon: line-chart
-  icon_pack: fas
+  icon: java
+  icon_pack: fab
   name: Java
 
 # Uncomment to use emoji icons.
