@@ -50,7 +50,7 @@ experience:
         * Earned ‘Top Employee of the year’ title for handling 3 projects with no impact on business as usual in agile environment.
         * Titled as ‘Subject-Matter Expert’ by the Manager for supporting teams to resolve technical issues through in-depth analysis.
 
-- title: Software Developer Intern
+  - title: Software Developer Intern
     company: Yoloperks
     company_url: ''
     location: Mumbai
