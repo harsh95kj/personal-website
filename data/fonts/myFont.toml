@@ -5,6 +5,6 @@ google_fonts = "family=Open+Sans:wght@300&family=Redressed"
 
 # Font families
 heading_font = "Redressed"
-body_font = "Open Sans"
-nav_font = "Open Sans"
-mono_font = "Open Sans"
+body_font = "Redressed"
+nav_font = "Redressed"
+mono_font = "Redressed"
