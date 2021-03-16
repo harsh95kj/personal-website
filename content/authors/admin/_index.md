@@ -27,10 +27,10 @@ education:
   courses:
   - course: M.Sc. in Business Intelligence Systems and Data Mining
     institution: De Montfort University
-    year: September'20
+    year: 2020
   - course: B.E. in Computer Science
     institution: K.J.Somaiya College of Engineering
-    year: May'17
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
