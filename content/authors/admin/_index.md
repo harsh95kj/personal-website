@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Pursuing MSc in Business Intelligence Systems and Data mining at De Montfort University. Confident, reliable and detail-focused individual vastly effective in dynamic, cross-functional surroundings with inspiration and capability to deliver data-driven solutions. Able to complete and deliver projects efficiently on time and with a focus on customer satisfaction. Awarded as ‘Top performer of the year 2018-19’ at Vodafone Shared Services India for contribution in 3 different projects concurrently with no impact on key tasks. 
+Confident, reliable and detail-focused individual vastly effective in dynamic, cross-functional surroundings with inspiration and capability to deliver data-driven solutions. Able to complete and deliver projects efficiently on time and with a focus on customer satisfaction. Awarded as ‘Top performer of the year 2018-19’ at Vodafone Shared Services India for contribution in 3 different projects concurrently with no impact on key tasks. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
