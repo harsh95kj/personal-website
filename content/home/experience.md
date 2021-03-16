@@ -22,6 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Knowledge Transfer Partnership Associate
+    company: De Montfort University
+    company_url: ''
+    location: Leicester
+    date_start: '2021-04-01'
+    date_end: ''
   - title: Student Learning and Teaching Consultant
     company: De Montfort University
     company_url: ''
