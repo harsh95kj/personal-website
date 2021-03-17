@@ -3,6 +3,7 @@ title: Spatial Panel Data Analysis
 summary: A spatial panel data analysis to explain crime decline across the boroughs of London.
 tags:
 - Machine Learning
+- Spatial Panel Data Analysis
 date: "2020-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
