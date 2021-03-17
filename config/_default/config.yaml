@@ -74,6 +74,3 @@ related:
       weight: 100
     - name: categories
       weight: 70
-design:
-  spacing:
-    padding:["5px", "0", "5px", "0"]
