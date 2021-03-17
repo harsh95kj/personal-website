@@ -3,10 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
-design:
-  spacing:
-    padding: ["20px", "20px", "20px", "20px"]
-
 # This file represents a page section.
 headless: true
 
@@ -55,4 +51,7 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+  
+  spacing:
+    padding: ["20px", "20px", "20px", "20px"]
 ---
