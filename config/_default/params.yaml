@@ -59,13 +59,12 @@ email: harshshah1995kj@gmail.com
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
   show_search: true
   highlight_active_link: true
-  menu_align_right: true
 
 # Localization
 
