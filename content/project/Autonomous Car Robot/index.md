@@ -1,6 +1,6 @@
 ---
 title: Autonomous Car Robot
-summary: A sentiment analysis model developed on news headlines to understand stock market trends for BSE for 20 years.
+summary: Android powered autonomous GPS robot for surveillance and delivery of products.
 tags:
 - Android
 - Autonomous vehicle
