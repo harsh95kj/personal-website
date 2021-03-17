@@ -3,6 +3,7 @@ title: Sentiment Analysis - Stock Market Hybrid Model
 summary: A sentiment analysis model developed on news headlines to understand stock market trends for BSE for 20 years.
 tags:
 - Machine Learning
+- Predictive Analysis
 date: "2020-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
