@@ -4,7 +4,7 @@ summary: A data warehouse and business intelligence dashboard developed to answe
 tags:
 - Business Intelligence
 - Data Warehouse and BI Dashboard
-date: "2020-10-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
