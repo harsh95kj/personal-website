@@ -5,7 +5,7 @@
 
 title: Harsh Portfolio # Website name
 baseurl: 'https://harsh95kj.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Harsh Portfolio © {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -74,3 +74,6 @@ related:
       weight: 100
     - name: categories
       weight: 70
+design:
+  spacing:
+    padding:["20px", "0", "20px", "0"]
