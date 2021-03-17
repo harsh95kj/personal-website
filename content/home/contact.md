@@ -6,7 +6,7 @@ widget: contact
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "20px", "20px", "20px"]
+    padding: ["10px", "20px", "20px", "20px"]
 
 # This file represents a page section.
 headless: true
