@@ -3,7 +3,7 @@ title: Autonomous Car Robot
 summary: Android powered autonomous GPS robot for surveillance and delivery of products.
 tags:
 - Android
-- Autonomous vehicle
+- Autonomous Car Robot
 date: "2020-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
