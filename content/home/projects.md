@@ -74,17 +74,4 @@ experience:
         
         * Architected a data warehouse to answer complex business queries by applying the concepts of extract-transform-load and star schema model using SQL.
         * Executed forecasting, optimisation and simulation using Advanced Excel techniques along with BI web reports and dashboards creation.
-
- - title: Android-Powered Autonomous Car Robot
-   company: K.J.Somaiya College of Engineering
-   company_url: ''
-   location: ''
-   date_start: '2017-05-01'
-   date_end: ''
-   description: |2-
-       Responsibilities:
-        
-       * Engineered an Arduino bot with ultrasonic sensor-based detection and Bluetooth-Android control via a mobile.
-       * Implemented the concepts of Google maps API, JAVA OOP, computer vision using OpenCV and Arduino in C.
-       * Anchored the project group for undergraduate thesis and published a technical paper in IJESC with our findings.
----
+ ---
