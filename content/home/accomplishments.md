@@ -13,10 +13,6 @@ weight: 50
 title: 'Certifications'
 subtitle:
 
-design:
-  spacing:
-    padding:["20px", "0", "20px", "0"]
-
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
