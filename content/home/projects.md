@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Sentiment Analysis - Stock Market Hybrid Model
+  - name: News Sentiment - Stock Market Hybrid Model
     tag: Predictive Analysis
   - name: Spatial Panel Data Analysis
     tag: Spatial Panel Data Analysis
