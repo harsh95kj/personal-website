@@ -1,5 +1,5 @@
 ---
-title: Sentiment Analysis - Stock Market Hybrid Model
+title: News Sentiment - Stock Market Hybrid Model
 summary: A sentiment analysis model developed on news headlines to understand stock market trends for BSE for 20 years.
 tags:
 - Machine Learning
