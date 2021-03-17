@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Modelled a sentiment analysis dataset on news headlines to explain the peaks and troughs across BSE SENSEX stocks spanning over the period of 20 years.
