@@ -75,4 +75,4 @@ related:
     - name: categories
       weight: 70
 design.spacing:
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["20px", "10px", "20px", "10px"]
