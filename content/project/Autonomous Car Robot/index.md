@@ -4,7 +4,7 @@ summary: Android powered autonomous GPS robot for surveillance and delivery of p
 tags:
 - Android
 - Autonomous Car Robot
-date: "2020-10-01T00:00:00Z"
+date: "2017-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
