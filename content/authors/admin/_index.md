@@ -70,5 +70,3 @@ highlight_name: false
 Confident, reliable and detail-focused individual vastly effective in dynamic, cross-functional surroundings with inspiration and capability to deliver data-driven solutions. Able to complete and deliver projects efficiently on time and with a focus on customer satisfaction. Awarded as ‘Top performer of the year 2018-19’ at Vodafone Shared Services India for contribution in 3 different projects concurrently with no impact on key tasks. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
-
-<a class="twitter-timeline" data-width="300" data-height="450" href="https://twitter.com/Harsh95kj?ref_src=twsrc%5Etfw">Tweets by Harsh95kj</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
