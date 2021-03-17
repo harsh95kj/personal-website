@@ -31,4 +31,5 @@ url_video: ""
 ---
 
 Modelled a sentiment analysis dataset on news headlines to explain the peaks and troughs across BSE SENSEX stocks spanning over the period of 20 years.
+
 Performed data wrangling for easy access and analysis of the hybrid model.
