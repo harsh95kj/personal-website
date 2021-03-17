@@ -6,7 +6,7 @@ title: Harsh Shah
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Knowledge Transfer Partnership Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
