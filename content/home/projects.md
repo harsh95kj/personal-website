@@ -58,7 +58,7 @@ experience:
     date_start: '2020-05-01'
     date_end: ''
     description: |2-
-        Responsibilities:
+        Achievement:
         
         * Formulated data mining techniques using Sample, Explore, Modify, Model and Assess (SEMMA) methodology.
         * Deployed logistic regression, decision tree, neural networks and random forest model to critically identify the risk factors contributing to Cardiovascular disease by presenting the best fit model using SAS Enterprise Miner.
@@ -76,15 +76,15 @@ experience:
         * Executed forecasting, optimisation and simulation using Advanced Excel techniques along with BI web reports and dashboards creation.
 
  - title: Android-Powered Autonomous Car Robot
-    company: K.J.Somaiya College of Engineering
-    company_url: ''
-    location: ''
-    date_start: '2017-05-01'
-    date_end: ''
-    description: |2-
-        Responsibilities:
+   company: K.J.Somaiya College of Engineering
+   company_url: ''
+   location: ''
+   date_start: '2017-05-01'
+   date_end: ''
+   description: |2-
+       Responsibilities:
         
-        * Engineered an Arduino bot with ultrasonic sensor-based detection and Bluetooth-Android control via a mobile.
-        * Implemented the concepts of Google maps API, JAVA OOP, computer vision using OpenCV and Arduino in C.
-        * Anchored the project group for undergraduate thesis and published a technical paper in IJESC with our findings.
+       * Engineered an Arduino bot with ultrasonic sensor-based detection and Bluetooth-Android control via a mobile.
+       * Implemented the concepts of Google maps API, JAVA OOP, computer vision using OpenCV and Arduino in C.
+       * Anchored the project group for undergraduate thesis and published a technical paper in IJESC with our findings.
 ---
