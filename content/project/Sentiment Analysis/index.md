@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/harsh95kj
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/harsh95kj
 url_code: ""
 url_pdf: ""
 url_slides: ""
