@@ -3,11 +3,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "20px", "20px", "20px"]
-
 # This file represents a page section.
 headless: true
 
