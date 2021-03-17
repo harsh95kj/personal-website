@@ -3,10 +3,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
-design:
-  spacing:
-    padding: ["20px", "20px", "20px", "20px"]
-
 # This file represents a page section.
 headless: true
 
