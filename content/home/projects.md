@@ -47,11 +47,11 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
   
   spacing:
-    padding: ["20px", "50px", "20px", "50px"]
+    padding: ["20px", "30px", "20px", "30px"]
 ---
