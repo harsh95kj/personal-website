@@ -1,10 +1,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Open+Sans:wght@300"
+google_fonts = "family=Open+Sans:wght@300&Crimson+Text"
 
 # Font families
-heading_font = "Open Sans"
-body_font = "Open Sans"
-nav_font = "Open Sans"
-mono_font = "Open Sans"
+heading_font = "Crimson Text"
+body_font = "Crimson Text"
+nav_font = "Crimson Text"
+mono_font = "Crimson Text"
